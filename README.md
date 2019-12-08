@@ -5,12 +5,12 @@ Server: MS SQL Server
 
 ## Parameters
 
-1 // Device unique number
-Server=;User ID=;Password=;Initial Catalog=Store; // DB connection string
-50 // thread synchronization time interval, scanned data transfer from one thread to another one
-10000 // time inteval to poll SQL server
-30 // wait time to execute SQL command
-240;320 // WinCE device screen size
+1 -- Device unique number
+Server=;User ID=;Password=;Initial Catalog=Store; -- DB connection string
+50 -- thread synchronization time interval, scanned data transfer from one thread to another one
+10000 -- time inteval to poll SQL server
+30 -- wait time to execute SQL command
+240;320 -- WinCE device screen size
 
 ## Terminal program
 
