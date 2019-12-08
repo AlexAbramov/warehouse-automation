@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{20D4826A-C6FA-45DB-90F4-C717570B9F32}") = "Terminal", "Terminal.csdproj", "{1DA19DBA-378A-4816-95DD-BCED0E1A987E}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{1DA19DBA-378A-4816-95DD-BCED0E1A987E}.Debug.ActiveCfg = Debug|Windows CE
+		{1DA19DBA-378A-4816-95DD-BCED0E1A987E}.Debug.Build.0 = Debug|Windows CE
+		{1DA19DBA-378A-4816-95DD-BCED0E1A987E}.Debug.Deploy.0 = Debug|Windows CE
+		{1DA19DBA-378A-4816-95DD-BCED0E1A987E}.Release.ActiveCfg = Release|Windows CE
+		{1DA19DBA-378A-4816-95DD-BCED0E1A987E}.Release.Build.0 = Release|Windows CE
+		{1DA19DBA-378A-4816-95DD-BCED0E1A987E}.Release.Deploy.0 = Release|Windows CE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

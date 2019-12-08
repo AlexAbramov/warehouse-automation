@@ -1,0 +1,14 @@
+1	-- terminalId
+Server=;User ID=;Password=;Initial Catalog=Store;	-- connectionString
+0 -- cs
+50	-- syncTime
+10000	-- pollTime
+30	-- commandTimeout
+240;320	-- screenSize
+1	-- debugMode
+1	-- openCountFormAfterScan
+
+
+
+9F9490E6E656ADDC818AAF80E0F0F6E4A75D95CBA1BD6EA57AAFEE7572879C52D57A5B6250BC8AC5CB84CBF808A71998175A3E59A5BCD89EC579	-- connectionString
+2	-- cs
